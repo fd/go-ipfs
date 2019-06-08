@@ -400,6 +400,8 @@ github.com/libp2p/go-libp2p-interface-connmgr v0.0.5/go.mod h1:GarlRLH0LdeWcLnYM
 github.com/libp2p/go-libp2p-interface-pnet v0.0.1/go.mod h1:el9jHpQAXK5dnTpKA4yfCNBZXvrzdOU75zz+C6ryp3k=
 github.com/libp2p/go-libp2p-kad-dht v0.1.0 h1:cupGornmncdQCnjArAv9Txkqy43wgQCxoe/5pfIDF/4=
 github.com/libp2p/go-libp2p-kad-dht v0.1.0/go.mod h1:EiH74cOsCxcu2Yh1XxQMpf1uHcLNm/hYEJBOIRlzHNE=
+github.com/libp2p/go-libp2p-kad-dht v0.1.1-0.20190607150147-25009616a4d5 h1:9lQBHrcV2SKUnKBFsi++wWD0OEUR3FWMKTBPIMc+XW4=
+github.com/libp2p/go-libp2p-kad-dht v0.1.1-0.20190607150147-25009616a4d5/go.mod h1:EiH74cOsCxcu2Yh1XxQMpf1uHcLNm/hYEJBOIRlzHNE=
 github.com/libp2p/go-libp2p-kbucket v0.2.0 h1:FB2a0VkOTNGTP5gu/I444u4WabNM9V1zCkQcWb7zajI=
 github.com/libp2p/go-libp2p-kbucket v0.2.0/go.mod h1:JNymBToym3QXKBMKGy3m29+xprg0EVr/GJFHxFEdgh8=
 github.com/libp2p/go-libp2p-loggables v0.0.1/go.mod h1:lDipDlBNYbpyqyPX/KcoO+eq0sJYEVR2JgOexcivchg=
