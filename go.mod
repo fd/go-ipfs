@@ -72,7 +72,7 @@ require (
 	github.com/libp2p/go-libp2p-circuit v0.1.0
 	github.com/libp2p/go-libp2p-connmgr v0.1.0
 	github.com/libp2p/go-libp2p-core v0.0.3
-	github.com/libp2p/go-libp2p-kad-dht v0.1.1-0.20190607150147-25009616a4d5
+	github.com/libp2p/go-libp2p-kad-dht v0.1.1-0.20190610224815-d6456f2cd57e
 	github.com/libp2p/go-libp2p-kbucket v0.2.0
 	github.com/libp2p/go-libp2p-loggables v0.1.0
 	github.com/libp2p/go-libp2p-mplex v0.2.1
@@ -119,7 +119,6 @@ require (
 	golang.org/x/net v0.0.0-20190607181551-461777fb6f67 // indirect
 	golang.org/x/sys v0.0.0-20190610081024-1e42afee0f76
 	golang.org/x/tools v0.0.0-20190610181509-5ae6a9745e44 // indirect
-	google.golang.org/appengine v1.4.0 // indirect
 	gopkg.in/cheggaaa/pb.v1 v1.0.28
 	gotest.tools/gotestsum v0.3.4
 )
