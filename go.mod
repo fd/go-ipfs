@@ -22,7 +22,7 @@ require (
 	github.com/hashicorp/golang-lru v0.5.1
 	github.com/hsanjuan/go-libp2p-http v0.1.0
 	github.com/ipfs/dir-index-html v1.0.3
-	github.com/ipfs/go-bitswap v0.1.2-0.20190610181840-4c5fb600b819
+	github.com/ipfs/go-bitswap v0.1.2-0.20190611220038-820f40a1c205
 	github.com/ipfs/go-block-format v0.0.2
 	github.com/ipfs/go-blockservice v0.1.0
 	github.com/ipfs/go-cid v0.0.2
